@@ -12,9 +12,13 @@ void	ADC_void_init(void){
 	RCC_voidEnablePerClk(RCC_APB2, 9);
 	/*set scan mode*/
 	SET_BIT(ADC1->CR1,8);
+	#if adc_convert_mode == continuous
 	/*continuous conversion*/
 	//ADC1->CR2 = (1<<1);
 	SET_BIT(ADC1->CR2,1);
+	#elif adc_convert_mode== single
+	 CLR_BIT(ADC1->CR2,1);
+	#endif
 	/* EXTERNAL trigger SWSTART*/
 	SET_BIT(ADC1->CR2,17);
 	SET_BIT(ADC1->CR2,18);
@@ -22,7 +26,11 @@ void	ADC_void_init(void){
 	/*right data alignment */
 	CLR_BIT(ADC1->CR2,11);
 	// Enable DMA for ADC
-	ADC1->CR2 |= (1<<8);
+	#if DMA_mode == enabled
+	set_BIT(ADC1->CR2,8);
+	#elif DMA_mode == disabled
+		CLR_BIT(ADC1->CR2,8);
+	#endif 
 	/*enable continuous requests*/
 	SET_BIT(ADC1->CR2,9);
 	/**/
