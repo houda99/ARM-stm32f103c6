@@ -29,4 +29,5 @@ typedef		struct
 }ADC1_Type;
 #define			ADC1				((volatile ADC1_Type*)(ADC_BASE_ADD))
 
+#define continuous 
 #endif

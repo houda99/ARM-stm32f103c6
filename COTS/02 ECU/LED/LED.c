@@ -24,6 +24,6 @@ void LED_off (u8 ledport , u8 ledpin ) {
 
  //toggle led function
 
-// void LED_toggLE (u8 ledport , u8 ledpin ){
-//	 DIO_togglepin(ledport ,ledpin ) ;
-// }
+void LED_toggle (u8 ledport , u8 ledpin ){
+	 DIO_togglepin(ledport ,ledpin ) ;
+}
