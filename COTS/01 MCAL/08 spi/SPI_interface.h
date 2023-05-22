@@ -8,8 +8,7 @@
 #define SS 	     PIN4
 
 #define SPI_PORT PORTA
-#define MODE  MASTER
-#define DATAMODE FULLDUPLEX
+
 
 void SPI_init(void);
 void SPI_MasterInit(void);
