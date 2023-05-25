@@ -1,0 +1,6 @@
+LCD_program.c:3:6:_delay_us	2
+LCD_program.c:11:6:LCD_4_bit_intalize	1
+LCD_program.c:36:6:LCD_4_bit_sendcommand	1
+LCD_program.c:58:6:LCD_4_bit_sendchar	1
+LCD_program.c:79:6:LCD_4_bit_sendstring	2
+LCD_program.c:89:6:LCD_4_bit_courserposition	5

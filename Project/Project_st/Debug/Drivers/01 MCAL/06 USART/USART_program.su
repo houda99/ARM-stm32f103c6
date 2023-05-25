@@ -1,0 +1,7 @@
+../Drivers/01 MCAL/06 USART/USART_program.c:24:6:UART_init	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:44:6:UART_enableTX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:48:6:UART_enableRX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:52:6:UART_TXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:60:5:UART_RXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:73:6:UART1_voidSendString	24	static
+../Drivers/01 MCAL/06 USART/USART_program.c:82:12:UART1_StrReceiveString	16	static

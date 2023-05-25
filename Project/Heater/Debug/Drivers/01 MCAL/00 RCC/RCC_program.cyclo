@@ -1,0 +1,11 @@
+RCC_program.c:9:13:RCC_IntalizeHSI	4
+RCC_program.c:20:7:RCC_intalizeHSE	4
+RCC_program.c:31:13:RCC_intalizePLL	4
+RCC_program.c:136:7:RCC_voidSysClkInt	1
+RCC_program.c:159:7:RCC_voidEnablePerClk	6
+RCC_program.c:178:7:RCC_voidDisablePerClk	6
+RCC_program.c:196:8:RCC_ADC_SETprescaler	5
+RCC_program.c:214:6:RCC_voidSetAHBprescaler	1
+RCC_program.c:268:6:RCC_voidSetAPB1prescaler	1
+RCC_program.c:293:6:RCC_voidSetAPB2prescaler	1
+RCC_program.c:318:6:RCC_voidSetADCprescaler	1

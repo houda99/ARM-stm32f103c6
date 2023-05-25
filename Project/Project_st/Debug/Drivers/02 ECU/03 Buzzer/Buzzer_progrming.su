@@ -1,0 +1,4 @@
+../Drivers/02 ECU/03 Buzzer/Buzzer_progrming.c:13:6:Buzzer_int	16	static
+../Drivers/02 ECU/03 Buzzer/Buzzer_progrming.c:22:6:Buzzer_on	16	static
+../Drivers/02 ECU/03 Buzzer/Buzzer_progrming.c:29:6:Buzzer_off	16	static
+../Drivers/02 ECU/03 Buzzer/Buzzer_progrming.c:36:6:Buzzer_toogle	16	static

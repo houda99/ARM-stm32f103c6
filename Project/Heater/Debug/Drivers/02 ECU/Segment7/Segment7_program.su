@@ -1,0 +1,6 @@
+../Drivers/02 ECU/Segment7/Segment7_program.c:18:6:Segment7_voidInit	24	static
+../Drivers/02 ECU/Segment7/Segment7_program.c:27:6:Segment7_voidSetValue	16	static
+../Drivers/02 ECU/Segment7/Segment7_program.c:35:6:Segment7_voidDisplayON	16	static
+../Drivers/02 ECU/Segment7/Segment7_program.c:39:6:Segment7_voidDisplayOFF	16	static
+../Drivers/02 ECU/Segment7/Segment7_program.c:44:6:Segment7_voidDualModeInit	24	static
+../Drivers/02 ECU/Segment7/Segment7_program.c:53:6:Segment7_voidDualModeSetValue	24	static

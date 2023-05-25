@@ -1,0 +1,7 @@
+I2C_program.c:15:13:Reset	1
+I2C_program.c:21:6:I2C1_voidMasterInit	1
+I2C_program.c:35:6:I2C1_voidStart	2
+I2C_program.c:43:6:I2C1_voidSendAddress	2
+I2C_program.c:49:6:I2C1_voidSendData	3
+I2C_program.c:56:6:I2C1_voidRecieveData	2
+I2C_program.c:62:6:I2C1_voidStop	1

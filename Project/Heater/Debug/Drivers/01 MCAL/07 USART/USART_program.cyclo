@@ -1,0 +1,7 @@
+USART_program.c:23:6:UART_init	1
+USART_program.c:43:6:UART_enableTX	1
+USART_program.c:47:6:UART_enableRX	1
+USART_program.c:51:6:UART_TXdata	3
+USART_program.c:59:5:UART_RXdata	2
+USART_program.c:72:6:UART1_voidSendString	2
+USART_program.c:81:12:UART1_StrReceiveString	2

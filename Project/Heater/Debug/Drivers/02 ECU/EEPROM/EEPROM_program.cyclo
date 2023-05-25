@@ -1,0 +1,3 @@
+EEPROM_program.c:14:6:EEPROM_voidInit	1
+EEPROM_program.c:18:6:EEPROM_voidWriteChar	1
+EEPROM_program.c:32:4:EEPROM_voidReciveChar	1

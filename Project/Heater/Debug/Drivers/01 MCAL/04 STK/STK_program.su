@@ -1,0 +1,7 @@
+../Drivers/01 MCAL/04 STK/STK_program.c:15:6:STK_voidInit	4	static
+../Drivers/01 MCAL/04 STK/STK_program.c:26:6:STK_voidSetBusyWait	16	static,ignoring_inline_asm
+../Drivers/01 MCAL/04 STK/STK_program.c:42:6:STK_voidSetIntervalSingle	16	static
+../Drivers/01 MCAL/04 STK/STK_program.c:55:6:STK_voidSetIntervalPeriodic	16	static
+../Drivers/01 MCAL/04 STK/STK_program.c:68:6:STK_voidStopInterval	4	static
+../Drivers/01 MCAL/04 STK/STK_program.c:77:6:STK_u32GetElapsedTime	16	static
+../Drivers/01 MCAL/04 STK/STK_program.c:83:6:STK_u32GetRemainingTime	16	static

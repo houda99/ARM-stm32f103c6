@@ -1,0 +1,3 @@
+../Drivers/02 ECU/EEPROM/EEPROM_program.c:14:6:EEPROM_voidInit	8	static
+../Drivers/02 ECU/EEPROM/EEPROM_program.c:18:6:EEPROM_voidWriteChar	16	static
+../Drivers/02 ECU/EEPROM/EEPROM_program.c:32:4:EEPROM_voidReciveChar	24	static

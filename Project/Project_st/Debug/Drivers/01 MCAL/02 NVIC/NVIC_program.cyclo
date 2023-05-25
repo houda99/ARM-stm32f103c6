@@ -1,0 +1,7 @@
+NVIC_program.c:12:7:NVIC_voidInit	1
+NVIC_program.c:25:7:NVIC_voidEnablePerInt	3
+NVIC_program.c:41:7:NVIC_voidDisablePerInt	3
+NVIC_program.c:56:7:NVIC_voidSetPendingFlag	3
+NVIC_program.c:71:7:NVIC_voidClrPendingFlag	3
+NVIC_program.c:87:6:NVIC_u8ReadActiveFlag	3
+NVIC_program.c:106:7:NVIC_voidSetSwIntPriority	2

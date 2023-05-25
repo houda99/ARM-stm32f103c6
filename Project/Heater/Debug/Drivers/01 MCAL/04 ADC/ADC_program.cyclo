@@ -1,0 +1,13 @@
+ADC_program.c:3:6:ADC_voidInit	1
+ADC_program.c:20:6:ADC_voidEnable	2
+ADC_program.c:26:6:ADC_Start	1
+ADC_program.c:38:6:ADC_channelSetup	35
+ADC_program.c:91:6:ADC_getStatusflag	6
+ADC_program.c:109:6:AD_clearStatusflag	6
+ADC_program.c:125:6:ADC_ScanConvMode	1
+ADC_program.c:136:6:ADC_singOrcontainusConvMode	1
+ADC_program.c:157:6:ADC_ExternalTrigConv	1
+ADC_program.c:179:6:ADC_DataAligment	1
+ADC_program.c:189:6:ADC_NbrOfConversion	1
+ADC_program.c:193:6:ADC_tempSenEnable	1
+ADC_program.c:205:6:ADC_DMAenable	1

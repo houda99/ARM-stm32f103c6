@@ -1,0 +1,4 @@
+../Drivers/02 ECU/00 LED/LED_progrming.c:13:6:LED_int	16	static
+../Drivers/02 ECU/00 LED/LED_progrming.c:21:6:LED_on	16	static
+../Drivers/02 ECU/00 LED/LED_progrming.c:28:6:LED_off	16	static
+../Drivers/02 ECU/00 LED/LED_progrming.c:35:6:LED_toogle	16	static

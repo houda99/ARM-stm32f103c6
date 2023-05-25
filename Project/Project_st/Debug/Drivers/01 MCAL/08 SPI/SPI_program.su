@@ -1,0 +1,3 @@
+../Drivers/01 MCAL/08 SPI/SPI_program.c:14:6:SPI1_voidInit	4	static,ignoring_inline_asm
+../Drivers/01 MCAL/08 SPI/SPI_program.c:40:6:SPI_voidSend	16	static,ignoring_inline_asm
+../Drivers/01 MCAL/08 SPI/SPI_program.c:48:6:SPI_voidRecieve	16	static,ignoring_inline_asm
